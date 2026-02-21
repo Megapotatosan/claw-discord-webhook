@@ -22,7 +22,7 @@ The JSON file MUST follow this structure. All fields are optional but recommende
 
 ```json
 {
-  "username": "Bot Name (e.g. あぬ-News🐼)",
+  "username": "Bot Name ",
   "avatar_url": "https://example.com/avatar.png",
   "embeds": [
     {
